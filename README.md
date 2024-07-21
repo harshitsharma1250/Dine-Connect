@@ -22,3 +22,9 @@
 - How to create used defined global snippets for functional componets.
 - How to resolve the proxy network issue (which we encountered during our installation of ShadyCn).
 
+
+### <em>What we developed new on Day 1 </em>
+- How to add Auth0 Authentication for the user login.
+- Auth0 authentication is based on a usecontext api under the hood.
+- UseContext api makes it very reliable to help in redirect and redirect. 
+
